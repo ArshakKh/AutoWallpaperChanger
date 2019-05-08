@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoWallpaperChanger</string>
+    <string name="wallpaper_preview">Wallpaper Preview</string>
+    <string name="btnStartSrv">Start Service</string>
+    <string name="reload">Reload</string>
+    <string name="screen_size">Screen Size: </string>
+    <string name="stop_service">Stop Service</string>
+    <string name="save">save</string>
+    <string name="set_as">Set as Wallpaper</string>
+
+</resources>
